@@ -1,0 +1,12 @@
+game.png
+size: 32, 38
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none"
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 0, 0
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
